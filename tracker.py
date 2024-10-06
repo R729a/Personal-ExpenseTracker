@@ -1,9 +1,3 @@
-
-
-
-													PYTHON PROJECT
-													
-											PERSONAL EXPENSE TRACKER 
 													
 import os
 import csv
